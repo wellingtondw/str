@@ -38,6 +38,18 @@
       "type": "component",
       "repeatable": false,
       "component": "page.section-modules"
+    },
+    "sectionSchedule": {
+      "type": "component",
+      "repeatable": false,
+      "component": "page.section-schedule",
+      "required": true
+    },
+    "pricingBox": {
+      "type": "component",
+      "repeatable": false,
+      "component": "page.pricing-box",
+      "required": true
     }
   }
 }
